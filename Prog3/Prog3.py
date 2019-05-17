@@ -1,0 +1,1 @@
+print('prog3')
